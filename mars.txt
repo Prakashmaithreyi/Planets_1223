@@ -2,3 +2,5 @@ Mars is the 4th planet.
 I am under exploration by humans. 
 
 I am the red planet.
+
+Soil here is not cultivable.
